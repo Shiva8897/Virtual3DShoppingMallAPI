@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Virtual#DShoppingMallAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac5a47b59ad1f3da836875099905294b967a5c4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Virtual#DShoppingMallAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Virtual#DShoppingMallAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
